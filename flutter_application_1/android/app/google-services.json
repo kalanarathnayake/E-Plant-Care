@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607379292996",
+    "firebase_url": "https://nodemcu-8bd8c-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-8bd8c",
+    "storage_bucket": "nodemcu-8bd8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607379292996:android:58d7e1c07e53ca9e228d11",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607379292996-87bl3segqkee7vae0vlb8hoc16v6uc78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvv1OEbvGt4VASGjG7FOmQarduBrtLNAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607379292996-87bl3segqkee7vae0vlb8hoc16v6uc78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
